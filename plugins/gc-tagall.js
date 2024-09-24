@@ -1,28 +1,24 @@
-
-
-const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, command, usedPrefix}) => {
-  const datas = global
-  const idioma = datas.db.data.users[m.sender].language || global.defaultLenguaje
-  const _translate = JSON.parse(fs.readFileSync(`./src/languages/${idioma}.json`))
-  const tradutor = _translate.plugins.gc_tagall
-
-  if (usedPrefix == 'a' || usedPrefix == 'A') return;
+let handler = async(m, { isOwner, isAdmin, conn, text, participants, args, command }) => {
   if (!(isAdmin || isOwner)) {
-    global.dfail('admin', m, conn);
-    throw false;
+  global.dfail('admin', m, conn)
+  throw false
   }
-  const pesan = args.join` `;
-  const oi = `${tradutor.texto1[0]} ${pesan}`;
-  let teks = `${tradutor.texto1[1]}  ${oi}\n\n${tradutor.texto1[2]}\n`;
-  for (const mem of participants) {
-    teks += `┣➥🕷️･ @${mem.id.split('@')[0]}\n`;
+  let pesan = args.join` `
+  let oi = `➜ 𝗠𝗘𝗡𝗦𝗔𝗝𝗘: ${pesan}`
+  let teks = `╭┈˖⋆ ❁────
+  𝗠𝗘𝗡𝗖𝗜𝗢𝗡 𝗚𝗘𝗡𝗘𝗥𝗔𝗟 💌
+╰┄───➤ •.
+
+*Bot Para grupo y Personalizados Aquí*💸
+*https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0.*\n\n ${oi}\n\n ➜ *ETIQUETA*:\n`
+  for (let mem of participants) {
+  teks += `🕷️🕸️･ @${mem.id.split('@')[0]}\n`}
+  teks += `➜ 𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧`
+  conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
   }
-  teks += `*└* Readz Aleizn\n`;
-  conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
-};
-handler.help = ['tagall <mesaje>', 'invocar <mesaje>'];
-handler.tags = ['group'];
-handler.command = /^(tagall|invocar|invocacion|todos|invocación)$/i;
-handler.admin = true;
-handler.group = true;
-export default handler;
+  handler.help = ['tagall <mesaje>','invocar <mesaje>']
+  handler.tags = ['group']
+  handler.command = /^(tagall|invocar|invocacion|todos|invocación)$/i
+  handler.admin = true
+  handler.group = true
+  export default handler
