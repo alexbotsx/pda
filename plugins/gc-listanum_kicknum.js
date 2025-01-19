@@ -1,5 +1,5 @@
 /*              Codigo Creado Por Bruno Sobrino
-      (https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0)
+      (https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j)
 */
 
 

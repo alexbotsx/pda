@@ -11,7 +11,7 @@ IF NOT EXIST "%USERPROFILE%\mystic" (
     :: Dependencias en Choco, se puede agregar más.
     choco install python nodejs ffmpeg-full git ImageMagick -y
 
-    git clone https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0.git "%USERPROFILE%\mystic"
+    git clone https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j.git "%USERPROFILE%\mystic"
     cd "%USERPROFILE%\mystic"
     npm install
     npm start
@@ -25,7 +25,7 @@ cd "%USERPROFILE%\mystic" || (
     exit /b
 )
 
-git pull https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0.git > git_output.txt
+git pull https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j.git > git_output.txt
 
 findstr "Already up to date" git_output.txt >nul
 if %errorlevel% equ 0 (

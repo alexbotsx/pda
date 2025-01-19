@@ -1,4 +1,4 @@
-// Codigo hecho para 𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧 - MD por https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0
+// Codigo hecho para GHOST BOT - MD por https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j
 // By @BrunoSobrino
 import axios from 'axios';
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;

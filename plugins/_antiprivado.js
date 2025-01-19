@@ -1,4 +1,4 @@
-// 𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧@BrunoSobrino - _antiprivado.js
+// GHOST BOT@BrunoSobrino - _antiprivado.js
 
 export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) {
     const datas = global

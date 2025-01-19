@@ -1,5 +1,5 @@
 /**
-𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧@BrunoSobrino - _antitrabas.js
+GHOST BOT@BrunoSobrino - _antitrabas.js
 By @NeKosmic || https://github.com/NeKosmic/
 **/
 
@@ -24,7 +24,7 @@ export async function before(m, { conn, isAdmin, isBotAdmin, usedPrefix }) {
   const delet = m.key.participant;
   const bang = m.key.id;
   const name = await conn.getName(m.sender);
-  const fakemek = { 'key': { 'participant': '0@s.whatsapp.net', 'remoteJid': '0@s.whatsapp.net' }, 'message': { 'groupInviteMessage': { 'groupJid': '573009684519-1616969743@g.us', 'inviteCode': 'm', 'groupName': 'P', 'caption': '𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧', 'jpegThumbnail': null } } };
+  const fakemek = { 'key': { 'participant': '0@s.whatsapp.net', 'remoteJid': '0@s.whatsapp.net' }, 'message': { 'groupInviteMessage': { 'groupJid': '51926490894-1616969743@g.us', 'inviteCode': 'm', 'groupName': 'P', 'caption': 'GHOST BOT', 'jpegThumbnail': null } } };
   if (chat.antiTraba && m.text.length > 5000) { // Cantidad máxima de caracteres aceptados en un mensaje.
     if (isAdmin) return conn.sendMessage(m.chat, { text: `${tradutor.texto1} @${m.sender.split('@')[0]} ${tradutor.texto1_1}`, mentions: [m.sender] }, { quoted: fakemek });
     conn.sendMessage(m.chat, `${tradutor.texto2}`, `${isBotAdmin ? '' : `${tradutor.texto2_1}`}`, m);

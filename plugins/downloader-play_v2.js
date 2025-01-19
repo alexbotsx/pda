@@ -6,7 +6,7 @@
 - Agradecimiento a Darlyn1234 por la estructura de uso en este codigo y quoted
  * https://github.com/darlyn1234
 - Adaptacion de imagen en tipo lista, codigo y funcionamiento por BrunoSobrino
- * https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0
+ * https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j
 
 */
 import fetch from 'node-fetch';

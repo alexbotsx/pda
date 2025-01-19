@@ -1,4 +1,4 @@
-// 𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧@BrunoSobrino - _antiarab.js
+// GHOST BOT@BrunoSobrino - _antiarab.js
 
 
 const handler = (m) => m;

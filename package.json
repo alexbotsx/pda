@@ -1,5 +1,5 @@
 {
-  "name": "𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧",
+  "name": "GHOST BOT",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
   "main": "index.js",
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0",
+  "homepage": "https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0.git"
+    "url": "git+https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j.git"
   },
   "bugs": {
-    "url": "https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0/issues"
+    "url": "https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

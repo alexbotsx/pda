@@ -1,4 +1,4 @@
-/* 𝐂𝐑𝐄𝐀𝐃𝐎 𝐏𝐎𝐑 https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0 */
+/* 𝐂𝐑𝐄𝐀𝐃𝐎 𝐏𝐎𝐑 https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j */
 
 
 const handler = async (m, {conn, usedPrefix, command}) => {

@@ -10,10 +10,10 @@ let handler = async(m, { isOwner, isAdmin, conn, text, participants, args, comma
 ╰┄───➤ •.
 
 *Bot Para grupo y Personalizados Aquí*💸
-*https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0.*\n\n ${oi}\n\n ➜ *ETIQUETA*:\n`
+*https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j.*\n\n ${oi}\n\n ➜ *ETIQUETA*:\n`
   for (let mem of participants) {
   teks += `🕷️🕸️･ @${mem.id.split('@')[0]}\n`}
-  teks += `➜ 𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧`
+  teks += `➜ GHOST BOT`
   conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
   }
   handler.help = ['tagall <mesaje>','invocar <mesaje>']

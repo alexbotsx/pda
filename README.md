@@ -1,36 +1,36 @@
 <p align="center">
  <img width="180px" src="https://i.ibb.co/Qn1W6cP/image.png" align="center"/>
- <h2 align="center">𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧</h2>
+ <h2 align="center">GHOST BOT</h2>
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/BrunoSobrino/𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧?style=for-the-badge" />
+  <a href="https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/BrunoSobrino/GHOST BOT?style=for-the-badge" />
   </a>
-  <a href="https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/BrunoSobrino/𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧?style=for-the-badge" />
+  <a href="https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j/issues">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/BrunoSobrino/GHOST BOT?style=for-the-badge" />
   </a>
-  <a href="https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0/pulls">
-    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/BrunoSobrino/𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧?style=for-the-badge" />
+  <a href="https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j/pulls">
+    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/BrunoSobrino/GHOST BOT?style=for-the-badge" />
   </a>
-  <a href="https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0/commits">
-    <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/BrunoSobrino/𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧?style=for-the-badge" />
+  <a href="https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j/commits">
+    <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/BrunoSobrino/GHOST BOT?style=for-the-badge" />
   </a>
-  <a href="https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/BrunoSobrino/𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧?style=for-the-badge" />
+  <a href="https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/BrunoSobrino/GHOST BOT?style=for-the-badge" />
   </a>
-  <a href="https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0/fork">
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/BrunoSobrino/𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧?style=for-the-badge" />
+  <a href="https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j/fork">
+    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/BrunoSobrino/GHOST BOT?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+5219992843881&text=&text=.menu">Demo</a>
   ·
-  <a href="https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0/issues/new?assignees=&labels=Bug">Reportar un Bug</a>
+  <a href="https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j/issues/new?assignees=&labels=Bug">Reportar un Bug</a>
   ·
-  <a href="https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0/issues/new?assignees=&labels=Enhancement">Solicitar una Característica</a>
+  <a href="https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j/issues/new?assignees=&labels=Enhancement">Solicitar una Característica</a>
 </p>
 
 <!-- <p align="center">
@@ -105,18 +105,18 @@
 En esta sección encontrarás **botones de despliegue** que te permitirán implementar el proyecto en distintos entornos con un solo clic. Este proceso es **automático** y no requiere configuraciones manuales adicionales. Simplemente selecciona la plataforma deseada y haz clic en el botón correspondiente para **desplegar** tu proyecto de manera rápida y sencilla.
 
 [![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=514876515&ref=master&geo=EuropeWest)
-[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/BrunoSobrino/𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧)
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://www.heroku.com/deploy?template=https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&name=𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧&repository=https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0)
-[![Run on Repl.it](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://repl.it/github/BrunoSobrino/𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0)
-<!-- [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0) -->
-<a href="https://brunosobrino.github.io/𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧/">
+[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/BrunoSobrino/GHOST BOT)
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://www.heroku.com/deploy?template=https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j)
+[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&name=GHOST BOT&repository=https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j)
+[![Run on Repl.it](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://repl.it/github/BrunoSobrino/GHOST BOT)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j)
+<!-- [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j) -->
+<a href="https://brunosobrino.github.io/GHOST BOT/">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Termux">
 </a>
-<a href="https://brunosobrino.github.io/𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧/">
+<a href="https://brunosobrino.github.io/GHOST BOT/">
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <a href="https://brunosobrino.github.io/𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧/">
+  <a href="https://brunosobrino.github.io/GHOST BOT/">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 
 # Soporte y Comunidad
@@ -129,7 +129,7 @@ En este espacio podrás encontrar diversas **comunidades de ayuda** donde podrá
 
 | RRSS | Tipo | Idioma | Enlace |
 | --- | --- | --- |--- |
-| WhatsApp | Canal | Español | [¡Únete aquí!](https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0) |
+| WhatsApp | Canal | Español | [¡Únete aquí!](https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j) |
 | WhatsApp | Grupo | Español | [¡Únete aquí!](https://chat.whatsapp.com/Daa3Fe4A9JeFpRI2QtBS4s) |
 | WhatsApp | Group | English | [¡Join here!](https://chat.whatsapp.com/HTatrQokqODKx9eem0CKuY) |
 | WhatsApp | Grupo | Português | [¡Junte-se aqui!](https://chat.whatsapp.com/J8tFq87Ia0jEnx20NvCQxN) |
@@ -140,8 +140,8 @@ En este espacio podrás encontrar diversas **comunidades de ayuda** donde podrá
 
 Conoce a los **colaboradores** que han aportado al desarrollo de este proyecto. Su apoyo ha sido clave para **mejorar** y **expandir** las funcionalidades del proyecto.
 
-<a href="https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BrunoSobrino/𝗤𝗨𝗘𝗦𝗢𝗕𝗢𝗧" /> 
+<a href="https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BrunoSobrino/GHOST BOT" /> 
 </a>
 
 ## Agradecimientos
@@ -152,6 +152,6 @@ Conoce a los **colaboradores** que han aportado al desarrollo de este proyecto. 
 
 ## Desarollador Principal
 
-<a href="https://chat.whatsapp.com/Hk5iEubNN581Rv2rH4vSm0">
+<a href="https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j">
   <img src="https://i.ibb.co/Qn1W6cP/image.png" width="180px"/>
 </a>
